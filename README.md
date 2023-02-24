@@ -1,4 +1,4 @@
-# rust-and-node
+# Rust and Node FFI
   Rust FFI (Function Foreign Interface) to run a rust function in node
   
   Developed by: <a href="https://www.github.com/gabrielAlonsoCabral">@GabrielAlonsoCabral</a>
