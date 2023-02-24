@@ -17,3 +17,5 @@ $ node node/benchmark.js
 ## comparison
 
 ![fibonacci](https://user-images.githubusercontent.com/77025415/221305232-14063231-a4e2-4afa-9b75-efa3a3481b4b.png)
+
+credits for: https://blog.risingstack.com/how-to-use-rust-with-node-when-performance-matters/
