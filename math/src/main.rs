@@ -1,7 +1,9 @@
-use math::add2number;
+use math::{add2numbers, fibonacci};
 
 fn main() {
-    let result: i32 = add2number(10, 20);
-
-    assert_eq!(result, 30);
+    let output_add_2_numbers: i32 = add2numbers(10, 20);
+    let output_fibonacci: i32 = fibonacci(40);
+    
+    assert_eq!(output_add_2_numbers, 30);
+    assert_eq!(output_fibonacci, 102334155);
 }
