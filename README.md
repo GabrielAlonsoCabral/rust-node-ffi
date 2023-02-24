@@ -5,6 +5,17 @@
   
 <br/>
 
+
+## Installing
+
+```
+# Rust build
+$ cd math && cargo build --release
+
+# Node packages
+$ cd node/ && yarn
+```
+
 ## Usage
 
 ```
